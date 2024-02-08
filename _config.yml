@@ -3,6 +3,8 @@ remote_theme: jekyll-theme-plain/jekyll-theme-plain
 # lang: en
 # color_scheme: false # disables color scheme sync
 title: Your awesome title
+# url: https://USERNAME.github.io
+# basename: 
 # canonical_url: false # disables canonical URLs
 # license_url: https://creativecommons.org/publicdomain/zero/1.0/
 
