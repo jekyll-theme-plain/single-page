@@ -5,5 +5,10 @@ remote_theme: jekyll-theme-plain/jekyll-theme-plain
 title: Your awesome title
 # canonical_url: false # disables canonical URLs
 # license_url: https://creativecommons.org/publicdomain/zero/1.0/
+
+#
+# To use a style sheet, place it in _includes/default.css (or any) and uncomment the following lines:
+#
+
 # stylesheets:
-#   - base.css
+#   - default.css
