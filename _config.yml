@@ -14,3 +14,7 @@ title: Your awesome title
 
 # stylesheets:
 #   - default.css
+
+exclude:
+  - LICENSE*
+  - README*
