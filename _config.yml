@@ -14,12 +14,3 @@ title: Your awesome title
 
 # stylesheets:
 #   - XXX.css
-
-#
-# To publish more pages, place them in the _pages directory and uncomment the following lines:
-#
-
-# collections:
-#   pages:
-#     output: true
-#     permalink: /:title/
